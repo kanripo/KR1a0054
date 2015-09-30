@@ -1,7 +1,5 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易要義
-#+DATE: 2015-09-23 09:34:39
-#+PROPERTY: JUAN 0
-
-¶
-第
+#+DATE: 2015-08-24 21:55:38.714859
+#+PROPERTY: ID KR1a0054
+#+PROPERTY: BASEEDITION SBCK
